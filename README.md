@@ -1,4 +1,4 @@
-# Processadors_Digitals_Pr-ctica_7
+# Processadors_Digitals_Practica_7
 # Practica 7
 
 Aquesta pràctica consistia en utilitzar els busos I2S per la transmisió i reproducció d’audio. Aquest bus està especificament dissenyat per la transmisió de senyals d’audio digital, i requereix de tres cables per al seu funcionament.
